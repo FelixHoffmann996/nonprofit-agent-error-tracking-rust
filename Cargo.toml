@@ -1,0 +1,11 @@
+[package]
+name = "nonprofit-agent-errors"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "nonprofit-agent-errors"
+path = "src/main.rs"
+
+[dependencies]
+
